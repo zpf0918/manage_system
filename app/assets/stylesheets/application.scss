@@ -21,6 +21,35 @@
 @import "select2";
 @import "select2-bootstrap";
 
+/***** 10.7 NOT FOUND PAGE *****/
+
+
+.notfoundpanel {
+    text-align: center;
+    margin-top: 10%;
+    width: 600px;
+    margin: 10% auto 0 auto;
+}
+
+.notfoundpanel h1 {
+    font-size: 130px;
+    font-family: 'LatoBold', sans-serif;
+    color: #333;
+    margin: 0;
+    line-height: 130px;
+}
+
+.notfoundpanel h3 {
+    color: #333;
+    margin: 0;
+}
+
+.notfound h4 {
+    font-size: 14px;
+}
+
+
+
 /*------------------ 登录页面 ---------------------*/
 .user_setup{
     height: 850px;
